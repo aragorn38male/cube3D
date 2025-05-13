@@ -1,0 +1,4 @@
+var size = 5;
+var rounded_cube = cube(x=size, y=size, z=size) ->shape fillet(radius=0.5);
+
+rounded_cube;
